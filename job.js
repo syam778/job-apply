@@ -21,3 +21,4 @@ const jobSchema = new mongoose.Schema({
 });
 const job = mongoose.model('job', jobSchema);
 export default job;
+
